@@ -1,0 +1,8 @@
+venv/
+
+*.json
+
+*.yaml
+
+
+__pycache__/
