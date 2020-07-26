@@ -4,5 +4,6 @@ venv/
 
 *.yaml
 
-
 __pycache__/
+
+.vscode/
